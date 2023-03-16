@@ -1,0 +1,20 @@
+components:
+  language_switcher:
+    change_language: ভাষা পরিবর্তন করুন
+  theme_switcher:
+    theme: থিম
+    change_theme: থিম পরিবর্তন করো
+pages:
+  '404':
+    title: পৃষ্ঠা খুঁজে পাওয়া যায়নি
+  index:
+    title: এডুবাইট
+    titleTemplate: বাড়ি
+    description: বর্ণনা edubyte
+banners:
+  welcome: হ্যালো, %{app_name}-এ স্বাগতম!
+others:
+  learn_more: আরো জানুন
+  copy: অনুলিপি
+  enabled: সক্রিয়
+  disabled: অক্ষম
