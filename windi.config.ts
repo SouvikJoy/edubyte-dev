@@ -77,7 +77,7 @@ export default defineConfig({
                 '8xl': '90rem',
             },
             colors: {
-                primary: colors.orange,
+                primary: MyTheme.colors.red,
                 green: MyTheme.colors.green,
                 blue: MyTheme.colors.blue,
                 red: MyTheme.colors.red,
